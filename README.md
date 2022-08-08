@@ -17,8 +17,8 @@ pip install -r requirements.txt
 
 ### Settings
 
-The script will collect only the datas you request, rename settings.py.sample to settings.py
-Then add the pairs and candle types you're interested in.
+The script will collect only the datas you request: rename ```settings.py.sample``` to ```settings.py```
+then add the pairs and candle types you're interested in.
 
 ##### Supported ```Candle Type``` values:
 ```1min```
