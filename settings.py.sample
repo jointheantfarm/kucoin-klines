@@ -1,0 +1,10 @@
+# MongoDB settings
+MONGO_URL = 'localhost'
+MONGO_PORT = 27017
+
+# Candlesticks to collect
+PAIRS = ["ETH-USDT", "BTC-USDT", "AVAX-USDT"]
+
+CANDLE_TYPES = ["30min", "1hour", "1day"]
+
+START_TIME = 1609459200 # 01/01/2021
