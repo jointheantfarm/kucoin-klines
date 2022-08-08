@@ -41,7 +41,9 @@ START_TIME = 1566789720
 ```
 
 ## Run the script
-```python main()```
+```
+python main()
+```
 
 The script will only query completed klines and you can always launch it again to fetch new data.
 
